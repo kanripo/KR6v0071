@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:32.665598
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:11
 #+TITLE: 姚和上金剛五禮一本
 #+PROPERTY: CBETA_ID W07n0059a
 #+PROPERTY: ID KR6v0071
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 整理者　達照¶
 ¶
@@ -130,7 +130,7 @@
 ¶
 ¶
 
-錄文一¶
+* 錄文一¶
 ¶
 
  姚和上金剛五禮一本¶
